@@ -1,0 +1,21 @@
+I"(<h1 id="step-3-choose-a-os-for-your-pinephone">Step 3: Choose a OS for your PinePhone</h1>
+
+<h2 id="ubports">UBports</h2>
+<p>UBPorts is a community fork and continuation of Ubuntu Touch.
+Minimum SD Card Size: <code class="language-plaintext highlighter-rouge">16GB</code></p>
+
+<p>It features:</p>
+<ul>
+  <li>A read only root filesystem to make it reliable and easily updatable.</li>
+  <li>Convergence - A way to run desktop apps on PinePhone. (YMMV on scaling)</li>
+  <li>A simple easy to use UI.</li>
+</ul>
+
+<p>Download Link:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+</code></pre></div></div>
+
+<p><a href="https://gitlab.com/ubports/community-ports/pinephone/-/issues">Issue Tracker</a></p>
+
+<p><a href="pick-a-product.html">Go Back</a></p>
+:ET
