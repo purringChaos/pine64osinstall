@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Getting Started
 ---
 
 # Step 1: Install Etcher

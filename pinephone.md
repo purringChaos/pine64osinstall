@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: PinePhone OS List
 ---
 
 # Step 3: Choose a OS for your PinePhone
