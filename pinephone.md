@@ -24,4 +24,4 @@ You will first need to extract this with 7zip or any other archiving tool to get
 
 [UBports PinePhone Issue Tracker](https://gitlab.com/ubports/community-ports/pinephone/-/issues)
 
-[Go Back](pick-a-product.html)
+[Go Back](select-a-product.html)
