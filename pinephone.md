@@ -15,7 +15,6 @@ Minimum SD Card Size: `16GB`
 
 It features:
 - A read only root filesystem to make it reliable and easily updatable.
-- Convergence - A way to run desktop apps on PinePhone. (YMMV on scaling)
 - A simple easy to use UI.
 
 Download Link:

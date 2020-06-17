@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Select A Product
 ---
 
 # Step 2: Select your product
