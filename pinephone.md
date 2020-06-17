@@ -21,7 +21,8 @@ Download Link:
 ```
 https://ci.ubports.com/job/rootfs/job/rootfs-pinephone-systemimage/lastSuccessfulBuild/artifact/ubuntu-touch-pinephone.img.xz
 ```
-You will first need to extract this with 7zip or any other archiving tool to get a .img
+
+The URL provided should work directly with Etcher's link input.
 
 [UBports PinePhone Issue Tracker](https://gitlab.com/ubports/community-ports/pinephone/-/issues)
 
