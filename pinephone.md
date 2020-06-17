@@ -7,6 +7,9 @@ description: This is just another page
 # Step 3: Choose a OS for your PinePhone
 
 ## UBports
+![UBports Logo](./icons/pinephone/UBPorts.png)
+
+
 UBPorts is a community fork and continuation of Ubuntu Touch.
 Minimum SD Card Size: `16GB`
 
