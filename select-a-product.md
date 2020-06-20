@@ -6,7 +6,8 @@ title: Select A Product
 # Step 2: Select your product
 
 ## PinePhone
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![PinePhone](./icons/devices/PinePhone.jpg)
+
 [Select a OS for your PinePhone](pinephone.html)
 
 

@@ -6,7 +6,7 @@ title: PinePhone OS List
 # Step 3: Choose a OS for your PinePhone
 
 ## UBports
-![UBports Logo](./icons/pinephone/UBPorts.png)
+![UBports Logo](./icons/distros/UBPorts.png)
 
 
 UBPorts is a community fork and continuation of Ubuntu Touch.
