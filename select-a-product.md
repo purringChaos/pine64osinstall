@@ -11,4 +11,9 @@ title: Select A Product
 [Select a OS for your PinePhone](pinephone.html)
 
 
+## Pinebook Pro
+![Pinebook Pro](./icons/devices/pinebookpro.jpg)
+
+[Select a OS for your Pinebook Pro](pinebookpro.html)
+
 [Go Back](getting-started.html)
